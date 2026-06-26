@@ -116,7 +116,7 @@ AI struggles with factual grounding — **unsupported category assignments domin
 
 🔗 [View Project](https://github.com/kwakusei1m-tech/stack-overflow-survey-analysis)
 
-![Survey Dashboard](visuals/stack_overflow_survey_dashboard.png)
+![Survey Dashboard](visuals/dashboard_current.png)
 
 **Insight:**  
 Strong demand for **Python, SQL, and cloud technologies** across developer ecosystems.
@@ -127,7 +127,7 @@ Strong demand for **Python, SQL, and cloud technologies** across developer ecosy
 
 🔗 [View Project](https://github.com/kwakusei1m-tech)
 
-![SEO Trends](visuals/seo_performance_overview.png)
+![SEO Trends](visuals/device_performance.png)
 
 **Insight:**  
 High-impression/low-CTR keywords present **clear optimisation opportunities for traffic growth**.
@@ -138,7 +138,7 @@ High-impression/low-CTR keywords present **clear optimisation opportunities for 
 
 🔗 [View Project](https://github.com/kwakusei1m-tech)
 
-![Churn Distribution](visuals/customer_churn_analysis.png)
+![Churn Distribution](visuals/churn_by_tenure.png)
 
 **Insight:**  
 Early-stage customers show **highest churn risk**, requiring onboarding improvements.
@@ -149,7 +149,7 @@ Early-stage customers show **highest churn risk**, requiring onboarding improvem
 
 🔗 [View Project](https://github.com/kwakusei1m-tech)
 
-![Sales Analysis](visuals/ecommerce_sales_analysis.png)
+![Sales Analysis](visuals/top_customers.png)
 
 **Insight:**  
 Revenue is concentrated in **top-performing products and regions**, showing clear growth leverage points.
