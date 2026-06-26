@@ -2,8 +2,6 @@
 
 This portfolio showcases end-to-end AI evaluation and data analytics projects, including chatbot response quality scoring, prompt robustness analysis, pairwise response evaluation, and factual grounding validation using structured datasets. It also includes analytics projects in SEO performance, customer churn, e-commerce sales, and survey analysis.
 
-# 🧠 Patrick Adu Osei — AI Evaluation & Data Analytics Portfolio
-
 ## 📌 Overview
 This portfolio showcases end-to-end **AI evaluation and data analytics projects**, focusing on:
 
